@@ -1,3 +1,8 @@
+<!-- 🌌 Bakgrunnsbilde øverst -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ratdragon123/backgrounds/main/gradient-dark.png" width="100%">
+</div>
+
 # Hei 👋
 
 ## 🛠️ Ferdigheter
