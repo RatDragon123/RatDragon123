@@ -1,4 +1,8 @@
-
+<div style="
+  background: linear-gradient(135deg, #050816, #1a0b3c, #4b1f7b);
+  padding: 60px;
+  border-radius: 16px;
+">
 # Hei 👋
 
 ## 🛠️ Ferdigheter
