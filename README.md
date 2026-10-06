@@ -5,7 +5,7 @@
 - C++ (C++23) 
 - Linux (WSL, Debian)
 - Git & GitHub
-- Arduino (PWM, tone(), breadboard)
+- Arduino 
 - Python (grunnleggende)
 
 ### 💻 Verktøy
