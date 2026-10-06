@@ -1,9 +1,6 @@
-<div style="
-  background: linear-gradient(135deg, #050816, #1a0b3c, #4b1f7b);
-  padding: 60px;
-  border-radius: 16px;
-"> </div>
-# Hei 👋
+
+
+Hei 👋
 
 ## 🛠️ Ferdigheter
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
