@@ -1,4 +1,4 @@
-# Hei, 👋
+# Hei 👋
 
 ## 🛠️ Ferdigheter
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -11,6 +11,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 📊 GitHub‑statistikk
+![Stats](https://github-readme-stats.vercel.app/api?username=RatDragon123&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatDragon123&layout=compact&theme=tokyonight)
 
 ## 📚 Jeg studerer
 - Datastrukturer  
