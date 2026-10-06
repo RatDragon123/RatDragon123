@@ -10,6 +10,8 @@
 
 ### 💻 Verktøy
 - VS Code
+- Visual Studeo
+- Spider
 - Windows Terminal
 - Git Bash
 
