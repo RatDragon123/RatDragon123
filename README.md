@@ -1,9 +1,6 @@
-<!-- 🌌 Bakgrunnsbilde øverst -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ratdragon123/backgrounds/main/gradient-dark.png" width="100%">
-</div>
-
-# Hei 👋
+<div style="background: url('https://raw.githubusercontent.com/RatDragon123/backgrounds/main/gradient-dark.png'); background-size: cover; padding: 40px; border-radius: 12px;">
+  
+<h1 align="center"> # Hei 👋
 
 ## 🛠️ Ferdigheter
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
