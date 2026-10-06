@@ -1,48 +1,28 @@
-<div style="
-  background: url('https://raw.githubusercontent.com/RatDragon123/backgrounds/main/gradient-dark.png');
-  background-size: cover;
-  background-position: center;
-  padding: 60px;
-  border-radius: 16px;
-">
 
-<h1 align="center" style="color: white; font-size: 48px; font-weight: bold;">
-  Hei 👋 Jeg er Shaban
-</h1>
+# Hei 👋
 
-<p align="center" style="color: #e0e0e0; font-size: 20px;">
-  Student ved USN • Programmering • Linux • Hardware • C++
-</p>
+## 🛠️ Ferdigheter
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
+## 💻 Verktøy
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<h2 style="color: white;">🛠️ Ferdigheter</h2>
-<p style="color: #dcdcdc; font-size: 18px;">
-  • C++ <br>
-  • Linux <br>
-  • Git & GitHub <br>
-  • Arduino <br>
-  • Python <br>
-</p>
+## 📊 GitHub‑statistikk
+![Stats](https://github-readme-stats.vercel.app/api?username=RatDragon123&show_icons=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RatDragon123&layout=compact&theme=tokyonight)
 
-<br>
+## 📚 Jeg studerer
+- Datastrukturer  
+- Algoritmer  
+- Objektorientert programmering  
 
-<h2 style="color: white;">💻 Verktøy</h2>
-<p style="color: #dcdcdc; font-size: 18px;">
-  • VS Code <br>
-  • Windows Terminal <br>
-  • Git Bash <br>
-  • WSL <br>
-</p>
-
-<br>
-
-<h2 style="color: white;">📚 Hva jeg jobber med nå</h2>
-<p style="color: #dcdcdc; font-size: 18px;">
-  • Datastrukturer og algoritmer <br>
-  • C++23 og moderne programmering <br>
-  • Linux terminal og systemforståelse <br>
-  • Arduino prosjekter og elektronikk <br>
-</p>
-
-</div>
+## 🔧 Prosjekter
+- Arduino‑prosjekter  
+- C++‑oppgaver fra studiet  
+- Laboppgaver i datastrukturer  
