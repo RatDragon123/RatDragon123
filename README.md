@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/RatDragon123/RatDragon123/main/bilde.png
+<img src="https://raw.githubusercontent.com/RatDragon123/RatDragon123/main/bilde.png" width="100%">
 
 
 Hei 👋
